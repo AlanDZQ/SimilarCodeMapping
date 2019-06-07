@@ -1,0 +1,17 @@
+Original: initialize|board, predicted 1st: hash|code
+Original: loop, predicted 1st: accessible
+Original: draw|board, predicted 1st: is|partial
+Original: wait|key, predicted 1st: hash|code
+Original: add|tile, predicted 1st: hash|code
+Original: can|move, predicted 1st: hash|code
+Original: test|add, predicted 1st: hash|code
+Original: move|vertically, predicted 1st: eval
+Original: move|horizontally, predicted 1st: eval
+Original: move, predicted 1st: hash|code
+Original: main, predicted 1st: main
+		 predicted correctly at rank: 1
+Original: run|game, predicted 1st: run
+Original: check|restart, predicted 1st: is|partial
+Original: clear|last|line, predicted 1st: print|stat
+[0.07142857 0.07142857 0.07142857 0.07142857 0.07142857 0.07142857
+ 0.07142857 0.07142857 0.07142857 0.07142857]

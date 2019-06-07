@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Extractor": {
+      "commandName": "Project",
+      "commandLineArgs": "--max_length 8 --max_width 2 --path /Users/apple/Desktop/test --threads 64 --ofile_name my_dataset.test.raw.txt --no_hash"
+    }
+  }
+}
